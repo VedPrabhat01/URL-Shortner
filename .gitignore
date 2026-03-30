@@ -60,4 +60,8 @@ docker-compose.override.yml
 *.tfstate.backup
 *.tfvars
 !example.tfvars
-.terraform.lock.hcl
+.terraform.lock.hclurl-shortner-key.pem
+
+
+#---KEYS
+*.pem
